@@ -1,3 +1,3 @@
 # madlab
  - HOME LAB
-   - Cheat Sheats
+   - Cheat Sheets
